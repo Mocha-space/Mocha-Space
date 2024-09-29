@@ -11,13 +11,11 @@
 
 import React from 'react';
 
-const Profile: React.FC = () => {
-  return (
-    <h3>A passionate JavaScript engineer from Kenya!</h3>
-  );
+```jsx
+const MyComponent = () => {
+  return <h1>I love React!</h1>;
 };
 
-export default Profile;
 
 - 📄 Know about my experiences [https://amaranth-lorene-73.tiiny.site](https://amaranth-lorene-73.tiiny.site)
 
