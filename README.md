@@ -9,6 +9,16 @@
 
 - 📫 How to reach me **mochagabriel49@gmail.com**
 
+import React from 'react';
+
+const Profile: React.FC = () => {
+  return (
+    <h3>A passionate JavaScript engineer from Kenya!</h3>
+  );
+};
+
+export default Profile;
+
 - 📄 Know about my experiences [https://amaranth-lorene-73.tiiny.site](https://amaranth-lorene-73.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
