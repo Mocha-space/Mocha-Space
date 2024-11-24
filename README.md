@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **React, JavaScript, & MERN**
+- 💬 Ask me about **React, JavaScript, Nodejs, MongoDB, MYSQL**
 - 📫 How to reach me: **mochagabriel49@gmail.com**
 
 ```jsx
